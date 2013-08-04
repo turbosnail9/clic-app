@@ -1,5 +1,6 @@
 Run Terminal Command in Background:
 	nohup command &
+	
 Install Flask: 
 	sudo pip install Flask
 
