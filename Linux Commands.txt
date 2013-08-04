@@ -1,0 +1,20 @@
+Install Flask: 
+	sudo pip install Flask
+
+Install requests: 
+	pip install requests
+
+Install jsonify: 
+	pip install jsonify
+
+intall Response: 
+	pip install Response
+
+Update apt-get: 
+	run apt-get update
+
+install scipy: 
+	sudo apt-get install python-scipy --fix-missing
+
+Install matplotlib: 
+	sudo apt-get install python-matplotlib
