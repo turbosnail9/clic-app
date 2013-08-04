@@ -1,4 +1,5 @@
-clic-app
+Closed  Loop Insulin Control Android App
 ========
 
-Closed  Loop Insulin Control App
+This application was developed to assist 
+	
