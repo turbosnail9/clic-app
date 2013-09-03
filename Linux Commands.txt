@@ -21,3 +21,19 @@ install scipy:
 
 Install matplotlib: 
 	sudo apt-get install python-matplotlib
+	
+Start Virgil:
+	cd virgil/target/virgil-1.0.2-SNAPSHOT
+	nohup bin/virgil -host localhost &  
+
+Start Cassandra:
+	nohup cassandra -f &
+
+Restart flask_interface.py:
+	Kill PID:
+		ps aux  -- to find PID
+		kill -9 PID
+		
+	Run flask_interface.py:
+		python flask_interface.py
+
